@@ -1,0 +1,10 @@
+C:\Users\Dani\source\repos\IRF_Project\MnbFilterProject\MnbFilterProject\bin\Debug\MnbFilterProject.exe.config
+C:\Users\Dani\source\repos\IRF_Project\MnbFilterProject\MnbFilterProject\bin\Debug\MnbFilterProject.exe
+C:\Users\Dani\source\repos\IRF_Project\MnbFilterProject\MnbFilterProject\bin\Debug\MnbFilterProject.pdb
+C:\Users\Dani\source\repos\IRF_Project\MnbFilterProject\MnbFilterProject\obj\Debug\MnbFilterProject.csprojAssemblyReference.cache
+C:\Users\Dani\source\repos\IRF_Project\MnbFilterProject\MnbFilterProject\obj\Debug\MnbFilterProject.Properties.Resources.resources
+C:\Users\Dani\source\repos\IRF_Project\MnbFilterProject\MnbFilterProject\obj\Debug\MnbFilterProject.csproj.GenerateResource.cache
+C:\Users\Dani\source\repos\IRF_Project\MnbFilterProject\MnbFilterProject\obj\Debug\MnbFilterProject.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\IRF_Project\MnbFilterProject\MnbFilterProject\obj\Debug\MnbFilterProject.exe
+C:\Users\Dani\source\repos\IRF_Project\MnbFilterProject\MnbFilterProject\obj\Debug\MnbFilterProject.pdb
+C:\Users\Dani\source\repos\IRF_Project\MnbFilterProject\MnbFilterProject\obj\Debug\MnbFilterProject.Form1.resources
